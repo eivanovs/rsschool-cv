@@ -1,7 +1,7 @@
 # rsschool-cv
 1. Eduards Ivanovs
 2. phone +371 26087232, email: eduards.ivanovs@gmail.com 
-3. Summary: Goal - JS Proficiencyy.
+3. Summary: Goal - JS Proficiency.
 Courses - RTU (Riga Technical University)  - Modern WEB development courses (HTML, CSS, JavaScript, PHP) - completed in  July 2022.
 4. Skills: basic - HTML5, CSS, JS, Bootstrap)
 5. Code examples
